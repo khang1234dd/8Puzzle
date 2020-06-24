@@ -1,0 +1,21 @@
+﻿  8_Puzzle.cpp
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(43,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(105,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(124,12): warning C4018: '<': signed/unsigned mismatch
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(137,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(146,22): warning C4018: '<': signed/unsigned mismatch
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(153,11): warning C4018: '<': signed/unsigned mismatch
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(167,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(176,22): warning C4018: '<': signed/unsigned mismatch
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(183,11): warning C4018: '<': signed/unsigned mismatch
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(195,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(204,22): warning C4018: '<': signed/unsigned mismatch
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(226,11): warning C4018: '<': signed/unsigned mismatch
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(50,44): warning C4101: 'Savesimulatedannealing': unreferenced local variable
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(50,22): warning C4101: 'Saverandomhill': unreferenced local variable
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(50,6): warning C4101: 'Savehill': unreferenced local variable
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(46,6): warning C4101: 'New': unreferenced local variable
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(752,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\tritenhantao\Project\8_Puzzle\8_Puzzle\8_Puzzle.cpp(883): warning C4715: 'Zeropoint': not all control paths return a value
+  8_Puzzle.vcxproj -> D:\tritenhantao\Project\8_Puzzle\Debug\8_Puzzle.exe
